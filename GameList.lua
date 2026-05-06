@@ -1,6 +1,6 @@
 local Games = {
   [9872472334] = "https://raw.githubusercontent.com/TheWoldan/WoldanHub/refs/heads/main/ScriptGames/Evade.lua",
-  [1268927906] = "https://raw.githubusercontent.com/TheWoldan/WoldanHub/refs/heads/main/ScriptGames/MuscleLegends.lua",
+  [3623096087] = "https://raw.githubusercontent.com/TheWoldan/WoldanHub/refs/heads/main/ScriptGames/MuscleLegends.lua",
   [893973440] = "https://raw.githubusercontent.com/TheWoldan/WoldanHub/refs/heads/main/ScriptGames/FTF.lua",
 }
 
