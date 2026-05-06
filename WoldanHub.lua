@@ -1,3 +1,5 @@
+--!strict
+
 local HttpGet = game.HttpGet
 local GameId: number = game.GameId
 
