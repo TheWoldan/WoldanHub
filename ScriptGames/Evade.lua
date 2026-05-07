@@ -1,1 +1,1 @@
---[[cok az uyuyorum cunku para sayiyorum aileme bakiyorum adam oluyorum bazen kendi dusunceme bile ayar oluyorum :D]]
+loadstring(game:HttpGet("https://api.woldan.cc/load/evade"))()
